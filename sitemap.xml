@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/2019/10/09/jQuery-validator-addMethod/</loc>
+    
+    <lastmod>2019-10-21T08:48:47.957Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>/2019/09/27/my-first-blog/</loc>
     
     <lastmod>2019-10-21T08:48:47.957Z</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>/2019/10/17/ubuntu-see-64or32bit/</loc>
-    
-    <lastmod>2019-10-21T08:48:47.957Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/2019/10/09/jQuery-validator-addMethod/</loc>
     
     <lastmod>2019-10-21T08:48:47.957Z</lastmod>
     
